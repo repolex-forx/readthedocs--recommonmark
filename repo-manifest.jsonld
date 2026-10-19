@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/readthedocs/recommonmark/commit/0df398dbca128ce9d6f48f960bb40b9242642a5f",
       "git:hexsha": "0df398dbca128ce9d6f48f960bb40b9242642a5f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T10:53:20.694461+00:00"
     },
     {
       "@id": "https://repolex.ai/r/readthedocs/recommonmark/commit/b072c39c93d075c7782f5aa7159282c24f9f44f9",
